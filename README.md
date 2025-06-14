@@ -15,3 +15,6 @@ kekatsu-myrientSNES  https://gist.githubusercontent.com/K9T33NwthTookThis/e1a70d
 ### Note: I will absolutely not be very good at updating this so you can check https://gist.github.com/K9T33NwthTookThis/e1a70d7ce14978373fbe7ea41f6bf3f6 for where i actually upload them to see if i've added any more(atari coming up)
 
 You can also change these out depending on which one's you want.
+
+
+### Second note: you can also only have up to 8 Databases on kekatsu for it to work properly from my testing, so if you have many choose wisely, and i may also make multipacks where some consoles are included in one Database.
