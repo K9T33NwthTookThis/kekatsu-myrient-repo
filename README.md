@@ -10,9 +10,11 @@ myrientGBC	https://gist.githubusercontent.com/K9T33NwthTookThis/e1a70d7ce1497837
 myrientGG  https://gist.githubusercontent.com/K9T33NwthTookThis/e1a70d7ce14978373fbe7ea41f6bf3f6/raw/ce59506eb22d3d40ae53def90711c3387c70b749/kekatsu-myrientGG(gamegear)
 kekatsu-myrientSNES  https://gist.githubusercontent.com/K9T33NwthTookThis/e1a70d7ce14978373fbe7ea41f6bf3f6/raw/13af83482e841c1b19f1d31c99402c1a9f52f051/kekatsu-myrientSNES
 ```
-## Make sure that the character between the name and the url is a TAB not a space.
+### Important: Make sure that the character between the name and the url is a TAB not a space.
 You can also change these out depending on which one's you want.
 
-### Note: I will absolutely not be very good at updating this so you can check https://gist.github.com/K9T33NwthTookThis/e1a70d7ce14978373fbe7ea41f6bf3f6 for where i actually upload them to see if i've added any more(atari coming up)
 
-### Second note: you can also only have up to 8 Databases on kekatsu for it to work properly from my testing, so if you have many choose wisely, and i may also make multipacks where some consoles are included in one Database.
+Note: I will absolutely not be very good at updating this so you can check https://gist.github.com/K9T33NwthTookThis/e1a70d7ce14978373fbe7ea41f6bf3f6 for where i actually upload them to see if i've added any more(atari coming up)
+
+
+Second note: you can also only have up to 8 Databases on kekatsu for it to work properly from my testing, so if you have others, like the default/crocdb choose wisely, and i may also make multipacks where some consoles are included in one Database.
