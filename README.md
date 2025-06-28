@@ -8,7 +8,7 @@ myrientGB	https://gist.githubusercontent.com/K9T33NwthTookThis/e1a70d7ce14978373
 myrientGBA	https://gist.githubusercontent.com/K9T33NwthTookThis/e1a70d7ce14978373fbe7ea41f6bf3f6/raw/ce59506eb22d3d40ae53def90711c3387c70b749/kekatsu-myrientGBA
 myrientGBC	https://gist.githubusercontent.com/K9T33NwthTookThis/e1a70d7ce14978373fbe7ea41f6bf3f6/raw/ce59506eb22d3d40ae53def90711c3387c70b749/kekatsu-myrientGBC
 myrientGG  https://gist.githubusercontent.com/K9T33NwthTookThis/e1a70d7ce14978373fbe7ea41f6bf3f6/raw/ce59506eb22d3d40ae53def90711c3387c70b749/kekatsu-myrientGG(gamegear)
-kekatsu-myrientSNES  https://gist.githubusercontent.com/K9T33NwthTookThis/e1a70d7ce14978373fbe7ea41f6bf3f6/raw/13af83482e841c1b19f1d31c99402c1a9f52f051/kekatsu-myrientSNES
+kekatsu-myrientSNES https://gist.githubusercontent.com/K9T33NwthTookThis/e1a70d7ce14978373fbe7ea41f6bf3f6/raw/614283411c89cec89235a848e52e608f6f0c9342/kekatsu-myrientSNES
 ```
 ### Important: Make sure that the character between the name and the url is a TAB not a space.
 You can also change these out depending on which one's you want.
